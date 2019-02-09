@@ -91,6 +91,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Micah Elizabeth Scott](#micah-elizabeth-scott-scanlime) - **streaming:** Reverse Engineering, Rust, C++, Hardware
 - [Mike Conley](#mike-conley) - **streaming:** Firefox Development, JavaScript, C++, CSS, Rust
 - [Nicholas Brochu](#nicholas-brochu) - **streaming:** Python, Serpent.AI Framework Dev, Machine Learning, AI, Computer Vision
+- [Nick Larsen](#nick-larsen) - **streaming:** Performance improvements, Artificial Intelligence, Machine Learning
 - [Ninjabunny9000](#ninjabunny9000) - **streaming:** Python, C#, Ninja, Programming in general
 - [nmarulo](#nmarulo) - **streaming:** JAVA, PHP, C#, JavaScript, Web development, MySQL, Bootstrap CSS
 - [Pavithra Kodmad](#pavithra-kodmad) - **streaming:** JavaScript, CSS, Open Source Stuff
@@ -839,6 +840,17 @@ Also known as MPJ from Fun Fun Function
 - [YouTube](https://www.youtube.com/c/SerpentAI)
 - [Discord](https://discord.gg/9D5SuxH)
 - [Patreon](https://www.patreon.com/serpent_ai)
+
+### Nick Larsen
+#### What Nick Streams
+- Performance improvements, Artificial Intelligence, Machine Learning
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/nick_larsen)
+#### Links:
+- [Twitter](https://twitter.com/fody)
+- [GitHub](https://github.com/nicklarsen)
+- [Website](https://cultureofdevelopment.com)
+- [YouTube](https://www.youtube.com/channel/UCt3hAVnKCdzdKcc3o6SUDgw)
 
 ### Ninjabunny9000 
 #### What Ninjabunny9000 Stream
